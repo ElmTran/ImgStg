@@ -1,2 +1,1 @@
-# ImgStg
-图床
+Temporary image source.
