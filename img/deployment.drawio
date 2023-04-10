@@ -1,27 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T21:50:37.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" version="21.1.5" etag="5UBNRbCn7zslGEQLWL-v" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T21:58:20.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="43CoDap-v1e6Bpvj5YW0" version="21.1.5" type="github">
   <diagram name="Page-1" id="e1mMzADLOqwQGpp4IVVd">
-    <mxGraphModel>
+    <mxGraphModel dx="2391" dy="2308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Build Docker images" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="2" value="Docker" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry width="160" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Deploy on Kubernetes" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3" value="Kubernetes" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="246" width="171" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Set up monitoring system" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4" value="Monitoring System" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="503" width="197" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Done" style="curved=1;startArrow=none;endArrow=block;exitX=0.9977702140808106;exitY=0.4950980579151827;entryX=-0.0028173435501187864;entryY=0.4950980579151827;" edge="1" parent="1" source="2" target="3">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="5" value="Deploy" style="curved=1;startArrow=none;endArrow=block;exitX=0.9977702140808106;exitY=0.4950980579151827;entryX=-0.0028173435501187864;entryY=0.4950980579151827;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry x="-0.0698" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6" value="Done" style="curved=1;startArrow=none;endArrow=block;exitX=0.9979745965254935;exitY=0.4950980579151827;entryX=-0.0023926091073128175;entryY=0.4950980579151827;" edge="1" parent="1" source="3" target="4">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="6" value="Set Up" style="curved=1;startArrow=none;endArrow=block;exitX=0.9979745965254935;exitY=0.4950980579151827;entryX=-0.0023926091073128175;entryY=0.4950980579151827;" parent="1" source="3" target="4" edge="1">
+          <mxGeometry x="0.0053" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lkcI0ltDzKRceu1qWq1x-9" value="Images" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lkcI0ltDzKRceu1qWq1x-10" value="Containers" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="301.5" y="-40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
