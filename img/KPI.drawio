@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2023-04-10T21:58:08.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" version="21.1.5" etag="wKk7KPxMQIS_Yhm1h1PF" type="github">
+  <diagram name="Page-1" id="o7HiHsv7JPL6TtZEMGeM">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Here are some KPIs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="167" width="153" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Model accuracy" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="225" width="126" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Cost reduction" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="229" y="84" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Time reduction" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="226" y="167" width="124" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Recall rate reduction" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="205" y="251" width="166" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Customer satisfaction" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="203" y="335" width="171" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5677291882320249;exitY=0.009803996366613051;entryX=0.0029349251398964535;entryY=0.4950980579151827;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="178" y="17" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6345562628923841;exitY=0.009803996366613051;entryX=-0.002083269755045573;entryY=0.485294173745548;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="178" y="101" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0018042271433314;exitY=0.5049020542817957;entryX=0.0024782303840883316;entryY=0.5049020542817957;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6345562628923841;exitY=1.0000001121969784;entryX=0.0024473351168345257;entryY=0.49509817011216106;" edge="1" parent="1" source="2" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="178" y="268" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5677291882320249;exitY=1.0000001121969784;entryX=0.001614308496664839;entryY=0.48529428594252644;" edge="1" parent="1" source="2" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="178" y="352" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
