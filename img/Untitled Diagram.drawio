@@ -1,35 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T21:33:23.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" version="21.1.5" etag="sCRsikgqvOw-93eM2WNg" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-21T22:10:08.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="wATF3YjclJFxI-u7Yyno" version="21.1.5" type="github">
   <diagram name="Page-1" id="8PbjuK5wnLYOJluOX6YS">
-    <mxGraphModel>
+    <mxGraphModel dx="2933" dy="3304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Input: Patient Arrival Time, Patient Service Time, Capacity of Resources, Staff Schedule" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry width="645" height="34" as="geometry" />
+        <mxCell id="C-ZyG7l93XjpRoGZt_fJ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="C-ZyG7l93XjpRoGZt_fJ-12" target="C-ZyG7l93XjpRoGZt_fJ-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Choose a Distribution: Poisson, Normal, Binomial" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="695" width="365" height="34" as="geometry" />
+        <mxCell id="C-ZyG7l93XjpRoGZt_fJ-12" value="&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Helvetica&quot;&gt;Patient Arrival Time&lt;br&gt;Patient Service Time&lt;br&gt;Capacity of Resources&lt;br&gt;Staff Schedule&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-590" width="310" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Simulate the System" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1109" width="161" height="34" as="geometry" />
+        <mxCell id="C-ZyG7l93XjpRoGZt_fJ-13" value="&lt;font style=&quot;font-size: 36px;&quot; face=&quot;Helvetica&quot;&gt;Input&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-650" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Output: Patient Throughput, Delay, Capacity Utilization, Staff Utilization, Resource Utilization" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1321" width="693" height="34" as="geometry" />
+        <mxCell id="C-ZyG7l93XjpRoGZt_fJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;shadow=0;" edge="1" parent="1" source="C-ZyG7l93XjpRoGZt_fJ-14" target="C-ZyG7l93XjpRoGZt_fJ-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9997577519379846;exitY=0.4950980579151827;entryX=-0.0004280821917808219;entryY=0.4950980579151827;" edge="1" parent="1" source="2" target="3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="C-ZyG7l93XjpRoGZt_fJ-14" value="&lt;font style=&quot;font-size: 26px;&quot; face=&quot;Helvetica&quot;&gt;Simulation Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-570" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9985445205479452;exitY=0.4950980579151827;entryX=0.0029114906832298135;entryY=0.4950980579151827;" edge="1" parent="1" source="3" target="4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="C-ZyG7l93XjpRoGZt_fJ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="C-ZyG7l93XjpRoGZt_fJ-16" target="C-ZyG7l93XjpRoGZt_fJ-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0050465838509317;exitY=0.4950980579151827;entryX=-0.00027056277056277056;entryY=0.4950980579151827;" edge="1" parent="1" source="4" target="5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="C-ZyG7l93XjpRoGZt_fJ-16" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;Poisso&lt;br&gt;&amp;nbsp;Normal&lt;br&gt;Binomial&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-552.5" width="110" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="C-ZyG7l93XjpRoGZt_fJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;dashed=1;" edge="1" parent="1" source="C-ZyG7l93XjpRoGZt_fJ-17" target="C-ZyG7l93XjpRoGZt_fJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-ZyG7l93XjpRoGZt_fJ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;dashed=1;" edge="1" parent="1" source="C-ZyG7l93XjpRoGZt_fJ-17" target="C-ZyG7l93XjpRoGZt_fJ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-ZyG7l93XjpRoGZt_fJ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;dashed=1;" edge="1" parent="1" source="C-ZyG7l93XjpRoGZt_fJ-17" target="C-ZyG7l93XjpRoGZt_fJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C-ZyG7l93XjpRoGZt_fJ-17" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;Patient Flow Management&lt;br&gt;Capacity Management&lt;br&gt;Work Process Design&lt;br&gt;Staff Scheduling&lt;br&gt;Resources&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Helvetica&quot;&gt;Reallocation&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-320" width="440" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="C-ZyG7l93XjpRoGZt_fJ-19" value="&lt;font style=&quot;font-size: 32px;&quot; face=&quot;Helvetica&quot;&gt;Performance and scenarios&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-110" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-ZyG7l93XjpRoGZt_fJ-20" value="&lt;font face=&quot;Helvetica&quot;&gt;Patient Throughput&lt;br&gt;Delay(waiting time)&lt;br&gt;Capacity Utilization&lt;br&gt;Staff Utilization&lt;br&gt;Resource Utilization&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="999" y="-590" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="C-ZyG7l93XjpRoGZt_fJ-21" value="&lt;font style=&quot;font-size: 36px;&quot; face=&quot;Helvetica&quot;&gt;Output&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="1109" y="-670" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
