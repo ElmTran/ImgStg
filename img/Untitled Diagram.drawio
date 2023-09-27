@@ -1,60 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T20:35:02.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.1" etag="Rhkz6N7uBz1RdWCjG7zH" type="github">
-  <diagram name="Page-1" id="t3GQ9x7-NfhEKVi6-G_K">
+<mxfile host="app.diagrams.net" modified="2023-09-27T17:12:21.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="21.8.2" etag="kyk4ppr2KXen_o0pZr8p" type="github">
+  <diagram name="Page-1" id="Qt8q0D3MRd9-MaOWYnfN">
     <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="User Uploads Data Set" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry width="174" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="3" value="User Selects Analytical Methods and Models" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="224" width="326" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="4" value="User Creates Task" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" width="141" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="5" value="User Defines Parameters" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="791" width="191" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="6" value="Task Created Successfully" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1032" width="199" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="7" value="Task Added to Message Queue" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1280" width="228" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="8" value="System Schedules Task" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1558" width="176" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9983088175455729;exitY=0.4950980579151827;entryX=-0.0009026556658598543;entryY=0.4950980579151827;" edge="1" parent="1" source="2" target="3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9989136771921732;exitY=0.4950980579151827;entryX=-0.0025116399670323582;entryY=0.4950980579151827;" edge="1" parent="1" source="3" target="4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0007759256565825;exitY=0.4950980579151827;entryX=0.000572803756953534;entryY=0.4950980579151827;" edge="1" parent="1" source="4" target="5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9982958888508262;exitY=0.4950980579151827;entryX=-0.0016356041683024498;entryY=0.4950980579151827;" edge="1" parent="1" source="5" target="6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9959434624293342;exitY=0.4950980579151827;entryX=0.0008453904536732456;entryY=0.4950980579151827;" edge="1" parent="1" source="6" target="7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0013022841068737;exitY=0.4950980579151827;entryX=0.0016870498657226562;entryY=0.4950980579151827;" edge="1" parent="1" source="7" target="8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
